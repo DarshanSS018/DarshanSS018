@@ -2,6 +2,8 @@
 Computer Science Engineering student at Nitte Meenakshi Institute of Technology, Bengaluru, with a strong focus on Data Science, Machine Learning, Deep Learning, and Computer Vision.<br>Hands-on experience in developing end-to-end AI solutions using Python, covering data preprocessing, feature engineering, model development, evaluation, and deployment.<br>Project experience includes credit risk analysis using XGBoost, image forgery detection using PyTorch and EfficientNet-B4, and real-time vehicle detection using OpenCV.<br>Currently focused on strengthening expertise in Machine Learning and Deep Learning while applying AI techniques to practical, real-world problems.<br>Open to internships, entry-level opportunities, and collaborations in Data Science, Machine Learning, and Artificial Intelligence.<br>
 
 
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_phoenix__46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-s-s-594086304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshdarsh9524@gmail.com) 
 
