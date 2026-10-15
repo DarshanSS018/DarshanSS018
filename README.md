@@ -1,5 +1,13 @@
 # About Me:
-Computer Science Engineering student at Nitte Meenakshi Institute of Technology, Bengaluru, with a strong focus on Data Science, Machine Learning, Deep Learning, and Computer Vision.<br>Hands-on experience in developing end-to-end AI solutions using Python, covering data preprocessing, feature engineering, model development, evaluation, and deployment.<br>Project experience includes credit risk analysis using XGBoost, image forgery detection using PyTorch and EfficientNet-B4, and real-time vehicle detection using OpenCV.<br>Currently focused on strengthening expertise in Machine Learning and Deep Learning while applying AI techniques to practical, real-world problems.<br>Open to internships, entry-level opportunities, and collaborations in Data Science, Machine Learning, and Artificial Intelligence.<br>
+Computer Science Engineering student at Nitte Meenakshi Institute of Technology, Bengaluru, with a strong interest in Data Science, Machine Learning, Deep Learning, Computer Vision, and UI/UX Design.
+
+Hands-on experience in developing AI solutions using Python, including data preprocessing, feature engineering, model development, and evaluation. Project experience includes credit risk analysis using XGBoost, image forgery detection using PyTorch and EfficientNet-B4, and real-time vehicle detection using OpenCV.
+
+Also interested in UI/UX design, with experience using Figma to create user interfaces and interactive prototypes. Familiar with wireframing, layouts, components, prototyping, and responsive design principles, with a focus on creating intuitive and user-friendly digital experiences.
+
+Currently strengthening my skills in Machine Learning, Deep Learning, and UI/UX Design through practical projects and continuous learning.
+
+Open to internships, entry-level opportunities, and collaborations in Data Science, Machine Learning, Artificial Intelligence, and UI/UX Design.
 
 
 
