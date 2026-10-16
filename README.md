@@ -7,9 +7,6 @@ Also interested in UI/UX design, with experience using Figma to create user inte
 Currently strengthening my skills in Machine Learning, Deep Learning, and UI/UX Design through practical projects and continuous learning.
 Open to internships, entry-level opportunities, and collaborations in Data Science, Machine Learning, Artificial Intelligence, and UI/UX Design.
 
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_phoenix__46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-s-s-594086304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshdarsh9524@gmail.com) 
 
